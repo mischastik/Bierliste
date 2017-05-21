@@ -1,8 +1,12 @@
 ## Untergärige Biersorten
 
-Bockbier
+Dunkler Bock
 
 Dunkles Lager/Export
+
+Eisbock
+
+Heller Bock
 
 Helles Lager/Export
 
