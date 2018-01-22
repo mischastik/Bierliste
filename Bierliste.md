@@ -35,9 +35,15 @@ Dampfbier
 
 Dubbel
 
+Dunkles Weizenbier
+
+Helles Weizenbier
+
 India Pale Ale
 
 Kölsch
+
+Kristallweizen
 
 Pale Ale/Ale (2)
 
@@ -56,12 +62,6 @@ Stout
 Strong Ale/Quadrupel
 
 Tripel
-
-Weizenbier (dunkel)
-
-Weizenbier (hell)
-
-Weizenbier (kristall)
 
 Weizenbock
 
