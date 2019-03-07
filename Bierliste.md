@@ -70,6 +70,8 @@ Witbier
 
 ## Sonstige Biersorten
 
+Kräuter-/Gewürzbier
+
 Lambic/Fruit Beer (4)
 
 Sonstiges
